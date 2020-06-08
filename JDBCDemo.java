@@ -12,7 +12,7 @@ import com.lxj.domain.Sort;
 
 /*
  * jdbc 读取书库sort 表   ，每行书据封装到sort类的对象中
- * 多个sort对象 存储到集合中
+ * 多个sort对象 存储到集合中  奥克斯
  */
 public class JDBCDemo {
 	public static void main(String[] args) throws SQLException {
